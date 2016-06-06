@@ -1,0 +1,180 @@
+.footer-logo img{
+  float: right;
+  max-width: 205px;
+}
+
+li {
+  margin-bottom: 1.0em;
+}
+.footer-logo {
+  margin-top: 25px;
+}
+
+.header_sec {
+  color: #592b8a;
+}
+
+.nfo_div {
+  clear: both;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+.nfo_div img {
+  float: left;
+  max-width: 205px;
+  display: block;
+}
+
+.img_cnt {
+  max-width: 210px;
+  float: left;
+}
+.img_cnt img {
+  padding: 5px 0;
+}
+
+.nfo {
+  float: right;
+  width: 415px;
+  border-top: 1px solid #592b8a;
+  padding-top: 20px;
+}
+
+.header-dash {
+  float: left;
+  max-width: 350px;
+}
+
+.dash {
+  float: right;
+  max-width: 600px;
+  border-top: 1px solid #592b8a;
+}
+
+.clr {
+  clear: both;
+}
+
+.main-content-1{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    }
+
+.main-content-1 h2, h3{
+    color: #592b8a !important;
+    width: 385px;
+    border-bottom: 1px solid #592b8a;
+    }
+.main-content-1 hr{
+    color: #592b8a;
+    width: 385px;
+    float: left;
+    }
+
+.main-content-1 p{
+    width: 385px;
+    line-height: 25px;
+    }
+hr{
+    border: 0;
+    height: 1px;
+    background:#5928ba;
+    margin-top:-10px;
+    }
+.header-bar{
+    width:960px;
+    height: 52px;
+    background-color:#592b8a;
+    margin: 5px 0px;
+    }
+
+.header-bar h1{
+    font-size: 36px;
+    color:#fff;
+    font-family: Times, serif;
+    padding-top:15px;
+    margin-left: 10px ;
+    }
+
+.eim-nav-bar{
+    border-bottom: 4px solid #fec923;
+    border-top: 4px solid #fec923;
+    }
+.left-pics1 img{
+    margin-top: 20px;
+    }
+.left-pics2 img{
+    margin-top: 25px;
+    }
+
+.q-links{
+    background-color: #d1d3d4;
+    width: 300px;
+    height: 400px;
+    margin-left: 7px;
+    margin-top: 20px;
+    }
+
+.q-links2 {
+  margin-top: 70px;
+}
+
+.q-bar{
+    background-color: #58595b;
+    width: 300px;
+    height: 35px;
+    }
+
+.q-head{
+    background-image: url('http://www.ecu.edu/cs-hhp/exss/eim/customcf/images/q-head300.gif');
+    width:300px;
+    height: 64px;
+    }
+
+.q-bar a{
+    color:#fff;
+    font-family: Times, serif;
+    font-size:25px;
+    margin-left: 10px;
+    vertical-align: -10px;
+    }
+
+.q-links-list li{
+    list-style-image: url('http://www.ecu.edu/cs-hhp/exss/eim/customcf/images/arrpurple.gif');
+    line-height: 35px;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    color:#58595b;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-bottom: auto;
+    }
+
+a:link {
+    text-decoration: none;
+    }
+
+a:link, a:visited, a:hover, a:active {
+  color: #592a8a;
+  font-weight: bold;
+}
+
+.q-links-list{
+    margin-top: 15px;
+    }
+ .vid-cont{
+        margin:10px 17px 0px 17px;
+    }
+    .vid-title{
+        color:#592b8a;
+        font-size: 18px;
+        font-family: Arial, sans-serif;
+        margin-top: 20px;
+    }
+    .vid-bar{
+       margin-left: 10px;
+        margin-top:-7px;
+    }
+.top-vid-contain{
+    border-bottom: 1px solid #592b8a;
+}
